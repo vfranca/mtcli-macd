@@ -3,10 +3,12 @@ name = "mtcli-macd"
 version = "0.1.0"
 description = "Plugin mtcli do indicador MACD"
 authors = [
-    {name = "Valmir França",email = "vfranca3@gmail.com"}
+    {name = "Valmir França da Silva",email = "vfranca3@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.11,<4.0.0"
+license = "GPL-3.0"
+repository = "https://github.com/vfranca/mtcli-macd"
+requires-python = ">=3.11,<3.14.0"
 dependencies = [
     "mtcli",
     "pandas"
